@@ -1,0 +1,6 @@
+{
+  "name": "Playground",
+  "tagline": "Playground for testing various GitHub features",
+  "body": "# playground\r\nPlayground for testing various GitHub features\r\n\r\n* _this_\r\n* __should__\r\n* be\r\n* a\r\n* bulleted\r\n* list\r\n\r\n```perl\r\nsub foo {\r\n  say 'bar!';\r\n}\r\n```\r\nthe end?\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
